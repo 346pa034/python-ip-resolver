@@ -1,6 +1,9 @@
 # Lightweight, easy-to-use, IP/host name resolver
 Works best with the python-ip-extractor. This script resolves all IPv4 addresses found in the specified input file (one address per line!) and writes the result to the specified output file.
 
+# Requirements
+* Python 3.8+
+
 # Installation
 Just download/clone this repo.
 
